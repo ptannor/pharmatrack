@@ -1,0 +1,7 @@
+{
+  "name": "PharmaTrack: FDA Manufacturing Finder",
+  "description": "Locate and explore FDA-approved manufacturing facilities for specific medicines, including site history, inspection status, and regional distribution.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
